@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1556006255 source:c:\users\minhthangpham\desktop\code-work-study\c++\demosingleton\main.cpp
+	<iostream>
+	"Player.h"
+	"Game.h"
+	<string>
+
+1556006274 c:\users\minhthangpham\desktop\code-work-study\c++\demosingleton\include\player.h
+	<iostream>
+	<string>
+
+1556006323 c:\users\minhthangpham\desktop\code-work-study\c++\demosingleton\include\game.h
+	"Player.h"
+	<iostream>
+	<string>
+
+1556006323 source:c:\users\minhthangpham\desktop\code-work-study\c++\demosingleton\src\game.cpp
+	"Game.h"
+	"Player.h"
+	<iostream>
+	<string>
+
+1556006471 source:c:\users\minhthangpham\desktop\code-work-study\c++\demosingleton\src\player.cpp
+	"Player.h"
+	<iostream>
+	<string>
+

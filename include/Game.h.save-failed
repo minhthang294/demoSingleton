@@ -1,0 +1,19 @@
+#ifndef GAME_H
+#define GAME_H
+#include "Player.h"
+#include <iostream>
+using namespace std;
+class Game
+{
+    public:
+        Game(string player_name);
+        void play();
+        virtual ~Game();
+
+    protected:
+
+    private:
+        Player* _player;
+};
+
+#endif // GAME_H
